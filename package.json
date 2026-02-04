@@ -1,0 +1,36 @@
+{
+  "name": "vals-blonde",
+  "version": "1.0.0",
+  "description": "Valentine's Proposal Website",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edema-wxd/vals-blonde.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Edema-wxd/vals-blonde/issues"
+  },
+  "homepage": "https://github.com/Edema-wxd/vals-blonde#readme",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "@types/node": "^25.2.0",
+    "@types/react": "^19.2.11",
+    "autoprefixer": "^10.4.24",
+    "framer-motion": "^12.31.0",
+    "next": "^16.1.6",
+    "postcss": "^8.5.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tailwindcss": "^4.1.18",
+    "typescript": "^5.9.3"
+  }
+}
