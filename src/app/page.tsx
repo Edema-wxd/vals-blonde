@@ -24,15 +24,15 @@ export default function Home() {
   };
 
   const noMessages = [
-    "Are you sure?",
-    "Really?",
+    "Are you sure, darling?",
+    "Really, Lola?",
     "Think again...",
-    "Please? 🥺",
-    "Pretty please?",
+    "Please darling? 🥺",
+    "Pretty please, Lola?",
     "I'll be sad...",
-    "One more chance?",
-    "You're breaking my heart!",
-    "Nooo!",
+    "One more chance, darling?",
+    "You're breaking my heart, Lola!",
+    "Nooo darling!",
     "💔",
   ];
 
@@ -93,7 +93,7 @@ export default function Home() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.2 }}
               >
-                My Dearest Love
+                My Darling Lola
               </motion.h2>
 
               {/* Main question */}
@@ -115,9 +115,9 @@ export default function Home() {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 0.6 }}
               >
-                Every moment with you is a treasure. You make my heart skip a
-                beat and fill my days with joy. I can&apos;t imagine anyone else
-                I&apos;d rather share this special day with...
+                My darling, every moment spent with you makes my heart quiver and butterflies flutter in my tummy. You make my
+                heart skip a beat and fill my days with joy. I can&apos;t imagine
+                anyone else I&apos;d rather share this special day with...
               </motion.p>
 
               {/* Buttons */}
@@ -199,7 +199,7 @@ export default function Home() {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 0.5 }}
               >
-                You&apos;ve made me the happiest person in the world!
+                Lola, you&apos;ve made me the happiest person in the world!
               </motion.div>
 
               <motion.p
@@ -208,8 +208,8 @@ export default function Home() {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 0.7 }}
               >
-                I promise to make this Valentine&apos;s Day unforgettable.
-                Can&apos;t wait to celebrate our love together! 💕
+                My darling, I promise to make this Valentine&apos;s Day
+                unforgettable. Can&apos;t wait to celebrate these moments together! 💕
               </motion.p>
 
               {/* Floating celebration emojis */}
